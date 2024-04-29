@@ -1,0 +1,9 @@
+.sam{
+    border-radius: 10px;
+    padding: 10px 30px;
+    cursor: pointer;
+    background-color: rgba(0, 157, 255, 0.574);
+    color: rgb(2, 2, 2);
+}
+
+
